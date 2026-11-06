@@ -90,10 +90,10 @@ a:focus-visible {
 .avatar {
   width: 32px;
   height: 32px;
-  border-radius: 6px;
+  border-radius: 50%;
   object-fit: cover;
   object-position: center;
-  background: #e7e5e1;
+  background: #5f7d8a;
   flex-shrink: 0;
 }
 
